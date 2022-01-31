@@ -10,3 +10,5 @@
   ***Parameters***: are merely the blueprint you define when writing the function (eg. 'name' as defined in 'def is_old_enough(name):')
 
   ***Docstring***: comment at the beginning of function detail 1. parameters and 2. what function returns
+  
+  ***Return Statements***: what the function returns. When the code sees this, it automatically leaves this function andeverything in this function is forgotten
