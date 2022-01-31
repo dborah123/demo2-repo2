@@ -7,18 +7,6 @@ Questions:
 - 
 """
 
-"""
-VOCAB:
-
-Arguments: contain value and are passed into function when it is executed 
-            (eg. 'person2_age' as passed into 'is_old_enough(person2_age)' in main method)
-
-Parameters: are merely the blueprint you define when writing the function
-            (eg. 'name' as defined in 'def is_old_enough(name):')
-
-Docstring: comment at the beginning of function detail 1. parameters and 2. what function returns
-"""
-
 
 """
 Note: I can put commas here if I want. This looks bad but if you have a really long function header
