@@ -2,6 +2,8 @@
 
 ## **Files**:
 * functions.py: Displays proper syntax for functions and how they can be used
+* loops.py: Displays ways how to iterate through integers, strings, and lists using for loops
+* loops_output.txt: output of `loops.py` for reference
 
 # **Concepts**:
 ## **Functions**:
